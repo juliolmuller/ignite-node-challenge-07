@@ -1,4 +1,3 @@
-import "reflect-metadata";
 import { IncorrectEmailOrPasswordError } from "./IncorrectEmailOrPasswordError";
 import { AuthenticateUserUseCase } from "./AuthenticateUserUseCase";
 import { InMemoryUsersRepository } from "../../repositories/in-memory/InMemoryUsersRepository";
